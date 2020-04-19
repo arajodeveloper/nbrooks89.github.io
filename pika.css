@@ -1,0 +1,17 @@
+
+h1 {
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    font-size: 50px;
+}
